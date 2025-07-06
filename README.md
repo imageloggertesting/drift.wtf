@@ -1,4 +1,4 @@
-local drift = {
+```local drift = {
     SilentAim = {
         Enabled = true,
         AntiCurve = true,
@@ -99,3 +99,4 @@ local drift = {
     },
     MaxDistance = 10000
 }
+```
