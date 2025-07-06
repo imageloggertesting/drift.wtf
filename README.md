@@ -1,4 +1,5 @@
-```local drift = {
+```
+local drift = {
     SilentAim = {
         Enabled = true,
         AntiCurve = true,
